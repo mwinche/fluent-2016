@@ -18,3 +18,4 @@ Notes from Fluent Conf 2016.
 * [Tracy Osborn, Wedding Lovely](./tracy osborn.md)
 * [Angular 2 - Brad Green, Google](./ng2.md)
 * [SVG Animations, Sarah Drasner, Zillow](./svg animations.md)
+* [Universal JavaScript, Jack Franklin, Pusher](./universal javascript.md)
