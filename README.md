@@ -17,5 +17,6 @@ Notes from Fluent Conf 2016.
 * [Seif Project - Doug Crockford, PayPal](./doug crockford keynote.md)
 * [Tracy Osborn, Wedding Lovely](./tracy osborn.md)
 * [Angular 2 - Brad Green, Google](./ng2.md)
-* [SVG Animations, Sarah Drasner, Zillow](./svg animations.md)
-* [Universal JavaScript, Jack Franklin, Pusher](./universal javascript.md)
+* [SVG Animations - Sarah Drasner, Zillow](./svg animations.md)
+* [Universal JavaScript - Jack Franklin, Pusher](./universal javascript.md)
+* [CSS for developers - Elijah Manor, LeanKit](./css for developers.md)
