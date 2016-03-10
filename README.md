@@ -8,3 +8,4 @@ Notes from Fluent Conf 2016.
 * [npm monolith keynote - Laurie Voss, npm](./npm monolith keynote.md)
 * [npm session - Laurie Voss, npm](./npm session.md)
 * [From require.js to webpack - Jamund Ferguson, PayPal](./webpack.md)
+* [Building our reactive future - Matthew Podwysocki, Microsoft](./building our reactive future.md)
