@@ -20,3 +20,4 @@ Notes from Fluent Conf 2016.
 * [SVG Animations - Sarah Drasner, Zillow](./svg animations.md)
 * [Universal JavaScript - Jack Franklin, Pusher](./universal javascript.md)
 * [CSS for developers - Elijah Manor, LeanKit](./css for developers.md)
+* [This talk is not available offline - Alex Rickabaugh, Google](./offline.md)
