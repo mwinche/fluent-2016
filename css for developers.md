@@ -18,7 +18,7 @@ Positioning, also sucks. `position: sticky` has an upcoming spec.
 Psuedo elements, attr() "function" for content attribute of psuedo element. "currentColor"
 on psudeo elements totally works apparently.
 
-CSS Alignment is a pain. (css tricks has a nice flow chart thing for vertical align).
+CSS Alignment is a pain. [CSS Tricks Centering Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 Flexbox Froggy and Flexbox Defense. What the flexbox.
 
