@@ -3,8 +3,8 @@ Tracy Osborn Keynote
 
 ## Tracy Osborn @limedaring, Wedding Lovely
 
-[hellowebpapp.com](http://hellowebapp.com/)
-[home page](http://limedaring.com/)
+* [hellowebpapp.com](http://hellowebapp.com/)
+* [home page](http://limedaring.com/)
 
 Author of Hello Web App (Python and Django).
 
@@ -22,8 +22,8 @@ Don't copy but get inspiration.
 
 She "uses bootstrap for everything".
 
-Site: colour lovers
-Site: typewolf
+* Site: colour lovers
+* Site: typewolf
 
 This is my process:
 
