@@ -11,7 +11,7 @@ Enabled by cloud automated creation and descruction of VMs
 
 platform.sh (example)
 
-pipelines (Heroku C deliv product) (runs and testing PRs, pre-merge)
+pipelines (Heroku Continuous delivery product) (runs and testing PRs, pre-merge in a live environment)
 
 can gate on CI
 
