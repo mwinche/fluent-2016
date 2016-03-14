@@ -12,7 +12,7 @@ being instantly available, it doesn't assume an ideal environment.
 
 Our app should be designed for reality like Mosh.
 
-3 step offline plane:
+3 step offline plan:
 
 1. App is openable offline
 2. Cache the initial data load
