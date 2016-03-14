@@ -1,6 +1,5 @@
- This talk is not available offline
- 
- ==================================
+This talk is not available offline
+==================================
 
  ## Alex Rickabaugh @synalx, Google
 
