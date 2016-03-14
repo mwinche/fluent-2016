@@ -43,7 +43,7 @@ Normal HTTP caching rules still apply, to the URLs in your manifest or even the 
 
 Better but not supported everywhere yet.
 
-Run a "server" on the client. Outgoing requests for the the worker first. Respond... or not.
+Run a "server" on the client. Outgoing requests for resources hite the worker first. Respond... or not.
 
 See slides, I got behind here. He has code examples.
 
@@ -68,3 +68,5 @@ control screen orientation, remove chrome, icon on homescreen, plus other benefi
 It can be really hard to tell that its not native.
 
 http://github.com/angular/answers-app/tree/fluent
+
+Angular 2 is being built with all this in mind.
