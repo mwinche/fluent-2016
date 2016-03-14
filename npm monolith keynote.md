@@ -1,6 +1,8 @@
 How npm switch from a monolith
 ==============================
 
+## [Slides](http://slides.com/seldo/cheating-galls-law#/)
+
 ## Laurie Voss (CTO at npm)
 
 Gall's law, to write a complex system that works you have to start with a simple system that works.
