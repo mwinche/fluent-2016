@@ -20,3 +20,5 @@ no need to get rid of gulp/grunt
 
 Jamund's car example is fantastic. You have a good car, you switch it for the fancy new thing,
 but you find that the old car was really what you needed.
+
+## [Gist posted by Jamund on "the how" of this talk](https://gist.github.com/xjamundx/b1c800e9282e16a6a18e)
