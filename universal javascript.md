@@ -12,3 +12,5 @@ How to use React Server Side rendering.
 Keep you components agnostic of client vs server vs mobile.
 
 React-router... 'nuf said.
+
+Pretty much the whole talk was an example of how to do server side React Rendering.
