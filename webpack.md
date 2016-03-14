@@ -5,7 +5,7 @@ From require.js to webpack
 
 5to6-codemod (tools to help you migrate from ES5 to ES6 syntax)
 
-moduleDirectories `['public/js', 'node_modules']`
+Webpack option: `moduleDirectories: ['public/js', 'node_modules']`
 
 > npm is the information super highway of JavaScript
 
