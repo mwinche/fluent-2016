@@ -3,7 +3,7 @@ SVG Animations
 
 ## Sarah Drasner, Zillow
 
-Animations commands attention.
+Animations command attention.
 
 SVG is crisp on any display. Less HTTP requests. Easily scalable and small filesize.
 Easy to animate. They have a DOM that you can animate. Accessible, and fun!
