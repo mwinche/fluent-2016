@@ -13,7 +13,7 @@ Feb 1st International Box Sizing awareness day.
 
 Specificity sucks.
 
-Positioning, also sucks. Position sticky has an upcoming spec.
+Positioning, also sucks. `position: sticky` has an upcoming spec.
 
 Psuedo elements, attr() "function" for content attribute of psuedo element. "currentColor"
 on psudeo elements totally works apparently.
