@@ -22,8 +22,8 @@ Don't copy but get inspiration.
 
 She "uses bootstrap for everything".
 
-* Site: colour lovers
-* Site: typewolf
+* Site: [colour lovers](http://www.colourlovers.com/)
+* Site: [typewolf](https://www.typewolf.com/)
 
 This is my process:
 
