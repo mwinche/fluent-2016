@@ -3,6 +3,10 @@ Fluent 2016 Notes
 
 Notes from Fluent Conf 2016.
 
+## Keynote Playlist
+
+[YouTube](https://www.youtube.com/watch?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&v=9UYoKyuFXrM)
+
 ## Wednesday
 
 * [Application Shell Architecture - Alex Russell, Google](./alex russell - google.md)
