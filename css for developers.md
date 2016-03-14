@@ -3,6 +3,8 @@ CSS for developers
 
 ## Elijah Manor @elijahmanor (LeanKit)
 
+[Slides](http://elijahmanor.com/talks/css-for-devs/#/)
+
 border-box is da shiz.
 
 Root element as border-box and everything else inherit.
