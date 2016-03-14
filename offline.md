@@ -3,6 +3,8 @@ This talk is not available offline
 
 ## Alex Rickabaugh @synalx, Google
 
+[Slides](https://docs.google.com/presentation/d/1rROKebA3y6yHQdaX3NIl9CFef_zJYRM4-DRsxpxh9fA/view)
+
 Mosh (mobile shell replacement for SSH), designed to work on a non-ideal network.
 
 Mosh didn't improve the network, but it improved his experience. It did this by
