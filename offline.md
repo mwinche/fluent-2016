@@ -18,7 +18,7 @@ Our app should be designed for reality like Mosh.
 2. Cache the initial data load
 3. Make the app installable (manifest file)
 
-Load static content *without* the network. This is called the 'app shell'. The already
+Load static content *without* the network. This is called the 'app shell'. The web already
 does this. New deployment model: changing when content is downloaded.
 
 Two APIs:
