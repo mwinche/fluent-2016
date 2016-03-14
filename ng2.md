@@ -37,7 +37,7 @@ Works in Node.js. Working on .NET, PHP/Twig, Java.
 
 Web Workers demo.
 
-roblog.io/js-repaint-perfs
+[roblog.io/js-repaint-perfs](http://www.roblog.io/js-repaint-perfs/)
 
 Support Installed Mobile. ng1 was tied to the DOM. ng2 has different renders, including ionic,
 NativeScript and React Native.
