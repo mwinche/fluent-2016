@@ -1,7 +1,7 @@
 SVG Animations
 ==============
 
-## Sarah Drasner, Zillow
+## Sarah Drasner @sarah_edo, Zillow
 
 Animations command attention.
 
