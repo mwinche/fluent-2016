@@ -33,7 +33,7 @@ As if you did it in vanilla JS (doubts).
 Service workers. Cache, Sync, Offline support.
 
 Initial load: Angular Universal, Angular runs on the server. Generates HTML, CSS and starts sending JS.
-Works in Node.js, .NET, PHP/Twig, Java.
+Works in Node.js. Working on .NET, PHP/Twig, Java.
 
 Web Workers demo.
 
