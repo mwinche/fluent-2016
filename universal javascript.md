@@ -1,7 +1,9 @@
 Universal JavaScript
 ====================
 
-## Jack Franklin, Pusher
+## Jack Franklin @Jack_Franklin, Pusher
+
+[Slides](https://speakerdeck.com/jackfranklin/fluent-conf-universal-react)
 
 Not everyone has JS, and its for more reasons than you'd think.
 
