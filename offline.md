@@ -1,7 +1,7 @@
 This talk is not available offline
 ==================================
 
- ## Alex Rickabaugh @synalx, Google
+## Alex Rickabaugh @synalx, Google
 
 Mosh (mobile shell replacement for SSH), designed to work on a non-ideal network.
 
