@@ -3,6 +3,8 @@ SVG Animations
 
 ## Sarah Drasner @sarah_edo, Zillow
 
+[Slides](http://slides.com/sdrasner/fluent-keynote#/)
+
 Animations command attention.
 
 SVG is crisp on any display. Less HTTP requests. Easily scalable and small filesize.
