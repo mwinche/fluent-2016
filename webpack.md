@@ -9,10 +9,10 @@ Webpack option: `moduleDirectories: ['public/js', 'node_modules']`
 
 > npm is the information super highway of JavaScript
 
-webpack --display-modules (show me what what used to build my modules, why is it so big)
+webpack --display-modules (show me what I used to build my modules and why is it so big)
 webpack --verbose (shows where each module got included)
 
-Webpack Validator (by Kent)
+Webpack Validator (by Kent C Dodds)
 
 Avoid writing webpack-specific code
 
