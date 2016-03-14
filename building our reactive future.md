@@ -1,7 +1,7 @@
 Building our reactive future
 ============================
 
-## Matthew Podwysocki, Microsoft
+## Matthew Podwysocki @mattpodwysocki, Microsoft
 
 RxJS... because callback hell and state suck.
 
