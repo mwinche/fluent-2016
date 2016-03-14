@@ -1,6 +1,8 @@
 Using npm for other stuff
 =========================
 
+[Slides](http://slides.com/seldo/fluent-many-uses-of-npm#/)
+
 npm is:
 
 1. a CLI
